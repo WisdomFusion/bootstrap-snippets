@@ -1,0 +1,9 @@
+.DS_Store
+
+/.idea/
+
+*.bak
+*.bkp
+*_bak
+*_bkp
+
